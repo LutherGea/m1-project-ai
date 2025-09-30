@@ -1,7 +1,7 @@
 -Elevator Pitch : 
     UMKM yang berjualan online sering menerima ulasan produk dari pelanggan. Namun, ulasan tersebut menumpuk dan sulit dianalisis secara manual. Proyek ini bertujuan membuat sistem analisis sentimen sederhana berbasis AI untuk mengklasifikasikan ulasan menjadi positif, negatif, atau netral, sehingga UMKM bisa cepat memahami kepuasan pelanggan.
 
--Problem Statement
+-Problem Statement :
     UMKM e-commerce lokal biasanya bergantung pada ulasan produk dari pelanggan untuk meningkatkan kualitas produk dan layanan. Sayangnya, proses membaca dan menganalisis ulasan secara manual membutuhkan waktu dan berisiko bias subjektif. Akibatnya, banyak masukan berharga dari pelanggan terlewat. Proyek ini akan membangun sistem sederhana berbasis AI yang mampu mengklasifikasikan ulasan pelanggan ke dalam kategori sentimen (positif, negatif, atau netral). Dengan solusi ini, UMKM dapat mengidentifikasi masalah lebih cepat, meningkatkan kualitas produk, dan menjaga loyalitas pelanggan.
 
 -Scope
