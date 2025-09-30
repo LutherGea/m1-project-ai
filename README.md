@@ -16,7 +16,8 @@
     -F1-score target: ≥ 0.75.
     -Latensi prediksi: ≤ 1 detik per ulasan.
 
--Roadmap
+-Roadmap:
+
     1. Minggu 1 (Inisialisasi & Perencanaan)
         -Menentukan problem statement (analisis sentimen ulasan produk UMKM).
         -Membuat struktur repository (data/, notebooks/, src/, docs/).-Menulis README awal + issue board.
